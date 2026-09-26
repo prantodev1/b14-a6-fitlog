@@ -1,5 +1,3 @@
-import { Dumbbell } from "lucide-react";
-
 export default function Footer() {
   return (
     <footer className="border-t border-[#181920] bg-[#0b0c0e] py-8 mt-20">
