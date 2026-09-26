@@ -105,11 +105,3 @@ If you found this project useful or interesting, consider giving the repository 
 Your support and feedback motivate me to keep learning, building and sharing more projects. 🚀
 
 </p>
-
-<p>
-
-  <a href="https://github.com/prantodev1/b14-a6-fitlog">
-    ⭐ Star this Repository
-  </a>
-
-</p>
